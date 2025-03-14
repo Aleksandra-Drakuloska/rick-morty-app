@@ -1,0 +1,20 @@
+.styled-button-blue {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.styled-button-blue:hover {
+    background-color: #0056b3;
+}
+
+.styled-button-blue:active {
+    background-color: #004085;
+}
+
+.error-message {
+    color: red;
+}
